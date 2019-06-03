@@ -4,12 +4,12 @@
 
 The content is order by sections:
 
-*Info
-*Bio&CV
-*Skills
-*Projects
-*Portfolio (link to Git Showcase)
-*Blog (Link to my blog)
+* Info
+* Bio&CV
+* Skills
+* Projects
+* Portfolio (link to Git Showcase)
+* Blog (Link to my blog)
 
 ## mobileApp
 
